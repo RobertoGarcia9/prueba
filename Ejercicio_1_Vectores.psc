@@ -12,7 +12,7 @@ Algoritmo Ejercicio_1_Vectores
 		suma<-suma+nota[num];
 	FinPara
 	media<- suma/15;
-	Escribir "	" ,  media , " esta es la nota media de las 10 notas ";
+	Escribir "	" ,  media , " esta es la nota media de las notas ";
 	//mensaje final
 	Escribir "¡GRACIAS POR UTILIZAR ESTE PROGRAMA, ESPERO QUE LE HAYA SIDO UTIL!";
 	
